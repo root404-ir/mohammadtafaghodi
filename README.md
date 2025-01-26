@@ -1,5 +1,5 @@
 # mohammad tafaghodi
-# hi,i'm mohammad [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=magenta&width=435&lines=I'm+a+linuxuser;I'm+a+Designer;I'm+a+Developer)](https://git.io/typing-svg)
+# hi,i'm mohammad [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff00ff&width=435&lines=I'm+a+linuxuser;I'm+a+Designer;I'm+a+Developer)](https://git.io/typing-svg)
 
 
 #contact me
