@@ -6,9 +6,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/root404)
 
-![Snake animation](https://github.com/root404-ir/root404-ir/blob/output/github-contribution-grid-snake.svg)
-
-
 ![root404's GitHub stats](https://github-readme-stats.vercel.app/api?username=root404-ir&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root404-ir&layout=compact&theme=radical)
