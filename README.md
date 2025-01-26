@@ -8,7 +8,7 @@
 
 ![root404's GitHub stats](https://github-readme-stats.vercel.app/api?username=root404-ir&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root404-ir&layout=compact&theme=radical)
 
 
 ## Languages and Tools:
