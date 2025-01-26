@@ -10,6 +10,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root404-ir&layout=compact&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=root404-ir&theme=react-dark)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ## Languages and Tools:
 <p>
