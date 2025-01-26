@@ -1,12 +1,12 @@
 # mohammad tafaghodi
-# hi,i'm mohammad [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff00ff&width=435&lines=I'm+a+linuxuser;I'm+a+Designer;I'm+a+Developer)](https://git.io/typing-svg)
+# hi,i'm mohammad [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=ff00ff&width=435&lines=I'm+a+linuxuser;I'm+a+Designer;I'm+a+Developer)](https://git.io/typing-svg)
 
 
 #contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/root404)
 
-![Snake animation](https://github.com/root404-ir/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/root404-ir/root404-ir/blob/output/github-contribution-grid-snake.svg)
 
 
 ![root404's GitHub stats](https://github-readme-stats.vercel.app/api?username=root404-ir&show_icons=true&theme=radical)
