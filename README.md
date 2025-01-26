@@ -6,6 +6,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/root404)
 
 
+![root404's GitHub stats](https://github-readme-stats.vercel.app/api?username=root404-ir&show_icons=true&theme=radical)
+
+
 ## Languages and Tools:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
